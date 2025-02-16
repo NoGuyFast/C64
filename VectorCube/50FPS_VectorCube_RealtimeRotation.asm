@@ -1231,7 +1231,7 @@ multifacz
 
 *=$a000 
 ;!fill $2000,0
-!bin "vectorc      pic.prg";"vector.bin"
+!bin "vectorc pic.prg";"vector.bin"
 
 ;**************************____________________ sideourtines
 *=$4000
