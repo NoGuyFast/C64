@@ -9,4 +9,4 @@
 ;*.  Code by CJoke 01/2022     .*
 ;C64Studio Syntax
 
-cobatab120-70.prg, facz30to80step5.prg and vectorrc pic.prg are included while compiling
+cobatab120-70_math.prg, facz30to80step5.prg and vectorrc pic.prg are included while compiling
